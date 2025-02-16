@@ -2,10 +2,11 @@
 Contenido de la materia Analisis Matematico 2.
 
 Factores a tener en cuenta:
+  - Unidad 1: Esta mayormente resuelta a mano en los cuadernos, por lo que se obvia subirla a este repositorio.
+  - Unidad 3: Hay un porcentaje hecho a mano, probablemente erroneamente pero no es trascendental analizarla.
+  - Unidad 4: No se realizan los ejercicios del 1 al 7, debido a que se saltean durante el cursado de la materia.
 
-Unidad 1: Esta mayormente resuelta a mano en los cuadernos, por lo que se obvia subirla a este repositorio.
-Unidad 3: Hay un porcentaje hecho a mano, probablemente erroneamente pero no es trascendental analizarla.
-Unidad 4: No se realizan los ejercicios del 1 al 7, debido a que se saltean durante el cursado de la materia.
+
 
 CONTENIDOS
 Unidad I: APLICACIONES DE LA DERIVADA: EXTREMOS DE FUNCIONES
